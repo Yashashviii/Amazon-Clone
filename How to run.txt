@@ -1,0 +1,7 @@
+This is an amazon website clone made with HTML and CSS.
+
+1. Install XAMPP.
+2. Find htdocs folder in XAMPP installation directory and paste all the content from amazon.com folder in it.
+3. Run XAMPP control panel.
+4. Start Apache and MySQL services.
+5. Open your browser and type 'localhost'.
